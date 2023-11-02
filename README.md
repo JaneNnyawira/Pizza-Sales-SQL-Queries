@@ -23,3 +23,15 @@ Charts Requirement:
 7. Bottom 5 worst sellers bt total pizzas sold.
 
 # Insights
+* The total revenue was 817860.049.
+* Average order value was 38.307.
+* Total pizzas sold were 49574.
+* Total orders were 21350.
+* Average pizzas per order was 2.32.
+* Daily trend for total orders were highest on Friday (3538) and lowest on Sunday (2624).
+* Hourly trend for total orders were high during the 11AM-10PM hours. 
+3. Percentage of sales by pizza category.
+4. Percentage of sales by pizza size.
+5. Total pizzas sold by pizza category.
+6. Top 5 best sellers by total pizzas sold.
+7. Bottom 5 worst sellers bt total pizzas sold.
