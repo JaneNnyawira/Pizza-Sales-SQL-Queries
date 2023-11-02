@@ -2,7 +2,7 @@
 1. The dataset has 48620 rows.
 2. Processing and Analyzing - MySQL.
 
-#Problem Statement
+# Problem Statement
 KPI'S Requirement: 
 * To analyze the key indicators for pizza sales data so as to have an insight about the perfomance of the business.
   Therefore I calculated the following metrics:
@@ -22,4 +22,4 @@ Charts Requirement:
 6. Top 5 best sellers by total pizzas sold.
 7. Bottom 5 worst sellers bt total pizzas sold.
 
-#Insights
+# Insights
