@@ -3,17 +3,18 @@
 2. Processing and Analyzing - MySQL.
 
 # Problem Statement
-KPI'S Requirement: 
+KPI'S Requirements: 
 * To analyze the key indicators for pizza sales data so as to have an insight about the perfomance of the business.
-  Therefore I calculated the following metrics:
+* Therefore I calculated the following metrics:
 1. Total revenue.
 2. Average order value.
 3. Total pizzas sold.
 4. Total orders.
 5. Average pizzas per order.
 
-Charts Requirement:
-* The business also wanted to gain insights and understand the key trends. I calculated the following requirement:
+Charts Requirements:
+* The business also wanted to gain insights and understand the key trends.
+* I calculated the following requirements:
 1. Daily trend for total orders.
 2. Hourly trend for total orders.
 3. Percentage of sales by pizza category.
